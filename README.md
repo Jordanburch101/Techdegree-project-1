@@ -12,7 +12,7 @@
 My First ever project!, A simple portfolio project to demonstrate my CSS and HTML skills.
 
 ## Screenshots
-![Example screenshot](imgages/Screenshot.jpg)
+![Example screenshot](images/Screenshot.jpg)
 
 ## Technologies
 * CSS3
