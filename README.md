@@ -20,7 +20,7 @@ My First ever project!, A simple portfolio project to demonstrate my CSS and HTM
 
 ## Features
 List of features ready and TODOs for future development
-* Hover effect of profile picture
+* Hover effect over profile picture
 * Basic flex layout
 * Multiple page site
 
